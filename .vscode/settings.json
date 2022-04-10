@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "xlib.h": "c",
+        "valarray": "c"
+    }
+}
